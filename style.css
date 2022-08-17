@@ -1,0 +1,25 @@
+.header{
+    color: brown;
+}
+
+.ingr.list{
+    color: red;
+}
+.steps.list{
+    color: blue;
+}
+.desc.para{
+    color: green;
+}
+
+.desc{
+    font-size: 40px;
+}
+
+.ingr{
+    font-size: 30px;
+}
+
+.steps{
+    font-size: 20px;
+}
